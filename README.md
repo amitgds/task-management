@@ -112,6 +112,10 @@ The server will start on the port specified in the `.env` file (default: `3000`)
 
 ---
 
+### 6. For Development
+
+Please follow the deployment process file that is documented separately.
+
 ## License
 This project is licensed under the MIT License.
 ```
